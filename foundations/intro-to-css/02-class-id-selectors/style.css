@@ -1,0 +1,21 @@
+/* Using closses & IDs */
+
+.odd {
+  background-color: #FFC0CB;
+  font-family: Verdana, Dejavu Sans, sans-serif;
+}
+
+.font-adjust {
+  font-size: 24px;
+  
+}
+#second {
+  color: #2535e6;
+  font-size: 36px;
+}
+
+#fourth {
+  font-weight: bold;
+  background-color: rgb(85, 235, 85);
+
+}
